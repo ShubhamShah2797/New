@@ -11,6 +11,8 @@ int main(void)
     // swapping...
     int temp = x;
     hellooooo
+check
+check
 
     printf("x is now %i\n", x);
     printf("y is now %i\n", y);
